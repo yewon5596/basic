@@ -1,0 +1,10 @@
+aa22334455
+
+CSV (ÄÞ¸¶·Î ±¸ºÐÇÑ ¹ë·ù)
+"dragon", "¸¼  À½", "aa"
+"hello', "¿ÀÈ£', "bb"
+
+XML
+<friend>
+    <id>dragon</id>
+    <status>¸¼ À½</status>
