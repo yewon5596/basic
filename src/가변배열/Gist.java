@@ -1,7 +1,7 @@
 package °¡º¯¹è¿­;
 
 import org.omg.CORBA.portable.ValueBase;
-//oo
+//oo000
 public class Gist<¸íÈÆ> {
 	private ¸íÈÆ[] data;
 	private int index;
